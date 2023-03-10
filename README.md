@@ -31,5 +31,5 @@ To use this repository, follow these steps:
 6.You can now run the code cells in the notebook and follow the instructions for each section.
 7.To access the different clouds, you will need to have a subscription in each of them and a stable internet connection. Make sure you have the necessary credentials to authenticate and access the resources of each cloud.
 
-#Usage Examples
+# Usage Examples
 This repository includes various exercises to practice my skills in Google Colab/Jupyter Notebook, Google Cloud Platform, AWS Cloud, Microsoft Azure Spark, Python, and SQL. You can explore the repository and try out the different exercises to improve your skills.
