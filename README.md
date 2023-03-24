@@ -1,4 +1,4 @@
-# (Data Analyst) Portfolio Projects (ES)
+# (Data Analyst) Portfolio (ES)
 
 Este repositorio ha sido creado con el objetivo de poner en práctica y mejorar mis conocimientos en el uso de herramientas como Google Colab/Jupyter Notebook, Google Cloud Plataform(GCP), Microsoft Azure, AWS Cloud, Apache Spark, Python y SQL. Incluye una variedad de ejercicios y proyectos para ayudarme a mejorar mis habilidades en estas herramientas.
 
@@ -17,7 +17,7 @@ Para utilizar este repositorio, sigue los siguientes pasos:
 ## Ejemplos de Uso
 Este repositorio incluye varios ejercicios para poner en práctica mis conocimientos en Google Colab/Jupyter Notebook, Google cloud plataform, AWS cloud,Microsoft Azure Spark, Python y SQL. Puedes explorar el repositorio y probar los diferentes ejercicios para mejorar tus habilidades.
 
-# (Data Analyst) Portfolio Projects (EN)
+# (Data Analyst) Portfolio (EN)
 This repository has been created with the aim of practicing and improving my skills in using tools such as Google Colab/Jupyter Notebook, Google Cloud Platform (GCP), Microsoft Azure, AWS Cloud, Apache Spark, Python, and SQL. It includes a variety of exercises and projects to help me improve my skills in these tools.
 
 ## Installation Instructions
